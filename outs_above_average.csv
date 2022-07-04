@@ -1,0 +1,37 @@
+﻿last_name, first_name,player_id,display_team_name,year,primary_pos_formatted,fielding_runs_prevented,outs_above_average,outs_above_average_infront,outs_above_average_lateral_toward3bline,outs_above_average_lateral_toward1bline,outs_above_average_behind,outs_above_average_rhh,outs_above_average_lhh,actual_success_rate_formatted,adj_estimated_success_rate_formatted,diff_success_rate_formatted
+Adames, Willy,642715,---,,SS,-5,-6,-1,1,-7,1,-2,-4,75%,77%,-2%
+Ahmed, Nick,605113,D-backs,,SS,12,16,12,3,2,-1,14,2,74%,70%,4%
+Alcántara, Sergio,642727,Cubs,,SS,2,3,0,-1,3,0,3,0,72%,71%,1%
+Anderson, Tim,641313,White Sox,,SS,0,0,0,1,-2,1,0,0,73%,73%,0%
+Andrus, Elvis,462101,Athletics,,SS,6,9,12,0,-2,-1,7,2,72%,70%,2%
+Bichette, Bo,666182,Blue Jays,,SS,-5,-6,-13,1,3,3,-7,1,73%,74%,-1%
+Bogaerts, Xander,593428,Red Sox,,SS,-7,-10,0,-8,-1,0,-8,-1,71%,73%,-2%
+Báez, Javier,595879,---,,SS,2,2,-1,0,2,1,3,0,81%,81%,0%
+Correa, Carlos,621043,Astros,,SS,7,9,5,3,2,0,6,3,79%,76%,3%
+Crawford, Brandon,543063,Giants,,SS,13,17,8,8,1,1,11,6,74%,70%,4%
+Crawford, J.P.,641487,Mariners,,SS,1,1,4,-3,0,0,4,-3,75%,75%,0%
+DeJong, Paul,657557,Cardinals,,SS,3,4,8,-3,-1,0,4,0,81%,80%,1%
+Escobar, Alcides,444876,Nationals,,SS,-3,-4,1,-4,-1,1,0,-4,69%,70%,-1%
+Farmer, Kyle,571657,Reds,,SS,1,2,3,6,-6,0,2,0,73%,73%,0%
+Franco, Wander,677551,Rays,,SS,-1,-1,0,-1,0,0,-2,1,76%,77%,-1%
+Galvis, Freddy,520471,---,,SS,-2,-3,2,-3,-1,-2,1,-5,71%,73%,-2%
+Goodrum, Niko,592348,Tigers,,SS,2,2,1,-2,3,0,3,-1,72%,71%,1%
+Gregorius, Didi,544369,Phillies,,SS,-12,-16,-6,-2,-7,0,-10,-6,71%,75%,-4%
+Iglesias, José,578428,---,,SS,0,0,1,-2,-1,1,-1,1,73%,73%,0%
+Kiner-Falefa, Isiah,643396,Rangers,,SS,-7,-9,-12,2,1,-1,-11,2,74%,76%,-2%
+Lindor, Francisco,596019,Mets,,SS,12,16,7,6,2,2,12,4,78%,73%,5%
+Lopez, Nicky,670032,Royals,,SS,18,24,9,12,1,2,20,4,73%,68%,5%
+Lux, Gavin,666158,Dodgers,,2B,-3,-4,0,-3,-2,0,-3,-2,74%,77%,-3%
+Newman, Kevin,621028,Pirates,,SS,4,6,6,1,-1,0,3,3,79%,77%,2%
+Rojas, Miguel,500743,Marlins,,SS,-2,-3,-6,2,1,0,-1,-2,77%,78%,-1%
+Rosario, Amed,642708,Guardians,,SS,-3,-3,0,-2,-2,0,-2,-2,71%,72%,-1%
+Seager, Corey,608369,Dodgers,,SS,-4,-6,-5,0,-2,1,-4,-1,74%,76%,-2%
+Short, Zack,670097,Tigers,,SS,-5,-6,-3,-4,1,0,-6,-1,77%,80%,-3%
+Simmons, Andrelton,592743,Twins,,SS,8,11,5,5,1,0,11,0,80%,76%,4%
+Sosa, Edmundo,624641,Cardinals,,SS,2,3,1,2,0,0,1,2,76%,75%,1%
+Story, Trevor,596115,Rockies,,SS,-5,-7,0,-2,-4,-1,0,-7,73%,75%,-2%
+Swanson, Dansby,621020,Braves,,SS,2,3,5,0,-3,1,5,-1,76%,75%,1%
+Tatis Jr., Fernando,665487,Padres,,SS,3,3,3,1,1,-1,2,1,70%,69%,1%
+Torres, Gleyber,650402,Yankees,,SS,-2,-3,-3,-4,4,0,-3,0,72%,73%,-1%
+Turner, Trea,607208,---,,SS,1,1,2,0,-2,1,2,-1,77%,76%,1%
+Urías, Luis,649966,Brewers,,SS,-5,-7,-1,-4,-2,0,-6,-1,71%,74%,-3%
